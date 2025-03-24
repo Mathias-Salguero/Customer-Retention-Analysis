@@ -22,5 +22,5 @@ Los datos provienen de un dataset de Kaggle sobre una startup que ofrece un soft
 ✔️ Google Sheets 📑  
 
 ## 📎 Recursos  
-📌 [Dashboard](#) 
-📌 [Informe Completo en PDF](#)
+📌 Dashboard 
+📌 Informe Completo en PDF
